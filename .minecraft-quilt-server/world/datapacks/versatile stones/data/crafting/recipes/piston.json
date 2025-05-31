@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "BiB",
+        "BRB"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "B": {
+            "tag": "versatile_stones:cobblestone_variants"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:piston",
+        "count": 1
+    },
+    "group": "piston",
+    "replace": true
+}

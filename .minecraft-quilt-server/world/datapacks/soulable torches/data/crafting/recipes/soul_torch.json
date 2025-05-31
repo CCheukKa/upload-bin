@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " t ",
+        "ttt",
+        " S "
+    ],
+    "key": {
+        "t": {
+            "item": "minecraft:torch"
+        },
+        "S": {
+            "tag": "soulable_torches:soul"
+        }
+    },
+    "result": {
+        "item": "minecraft:soul_torch",
+        "count": 4
+    },
+    "group": "soul_torch",
+    "replace": true
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/d/",
+        "DDD"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:redstone_torch"
+        },
+        "D": {
+            "tag": "versatile_stones:stone_variants"
+        },
+        "d": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:repeater",
+        "count": 1
+    },
+    "group": "repeater",
+    "replace": true
+}

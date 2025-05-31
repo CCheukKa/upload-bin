@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "tag": "versatile_stones:cobblestone_variants"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:dropper",
+        "count": 1
+    },
+    "group": "dropper",
+    "replace": true
+}

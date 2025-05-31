@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " / ",
+        "CCC"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:blaze_rod"
+        },
+        "C": {
+            "tag": "versatile_stones:cobblestone_variants"
+        }
+    },
+    "result": {
+        "item": "minecraft:brewing_stand",
+        "count": 1
+    },
+    "group": "brewing_stand",
+    "replace": true
+}

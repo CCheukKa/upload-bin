@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " / ",
+        "/Q/",
+        "DDD"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:redstone_torch"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        },
+        "D": {
+            "tag": "versatile_stones:stone_variants"
+        }
+    },
+    "result": {
+        "item": "minecraft:comparator",
+        "count": 1
+    },
+    "group": "comparator",
+    "replace": true
+}

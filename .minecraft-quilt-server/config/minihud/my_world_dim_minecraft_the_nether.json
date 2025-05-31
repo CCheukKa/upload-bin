@@ -1,0 +1,99 @@
+{
+  "data_storage": {
+    "distance_pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed": 5504210734727585452
+  },
+  "shapes": {
+    "shapes": [
+      {
+        "type": "despawn_sphere",
+        "color": 1621114960,
+        "enabled": true,
+        "display_name": "Ghast Farm Despawn Sphere ( \u003e 128)",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          -189.5,
+          242.0,
+          105.5
+        ],
+        "main_axis": "UP",
+        "radius": 128.0,
+        "margin": 1.5
+      },
+      {
+        "type": "despawn_sphere",
+        "color": 1621114960,
+        "enabled": true,
+        "display_name": "Wither Skeleton Farm Despawn Sphere ( \u003e 128)",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          -541.5,
+          6.0,
+          -94.5
+        ],
+        "main_axis": "UP",
+        "radius": 128.0,
+        "margin": 1.5
+      },
+      {
+        "type": "despawn_sphere",
+        "color": 1614848122,
+        "enabled": true,
+        "display_name": "Froglight Farm Despawn Sphere ( \u003e 128)",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          -154.41596808231287,
+          253.1511816984363,
+          300.13774752962354
+        ],
+        "main_axis": "UP",
+        "radius": 128.0,
+        "margin": 1.5
+      }
+    ],
+    "selected": 2
+  }
+}

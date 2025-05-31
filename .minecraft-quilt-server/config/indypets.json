@@ -1,0 +1,17 @@
+{
+  "independentCats": true,
+  "independentParrots": true,
+  "independentWolves": true,
+  "independentModdedPets": true,
+  "silentMode": true,
+  "homeRadius": 40,
+  "innerHomePercentage": 0.66,
+  "blocklist": [
+    "mythicmounts:*",
+    "lovely_snails:snail"
+  ],
+  "interactBlocklist": [
+    "cobblemon:*"
+  ],
+  "positionedWhistleSound": true
+}

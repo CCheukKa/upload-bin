@@ -1,0 +1,258 @@
+{
+  "name": "Geode Farm Decorations",
+  "current": "Geode Farm Decorations 17",
+  "boxes": [
+    {
+      "pos1": [
+        -293,
+        -59,
+        -104
+      ],
+      "pos2": [
+        -293,
+        -59,
+        -26
+      ],
+      "name": "Geode Farm Decorations 15"
+    },
+    {
+      "pos1": [
+        -292,
+        -59,
+        -25
+      ],
+      "pos2": [
+        -204,
+        -59,
+        -25
+      ],
+      "name": "Geode Farm Decorations 14"
+    },
+    {
+      "pos1": [
+        -248,
+        -58,
+        -69
+      ],
+      "pos2": [
+        -248,
+        -58,
+        -69
+      ],
+      "name": "Geode Farm Decorations 17"
+    },
+    {
+      "pos1": [
+        -292,
+        -59,
+        -105
+      ],
+      "pos2": [
+        -204,
+        -59,
+        -105
+      ],
+      "name": "Geode Farm Decorations 16"
+    },
+    {
+      "pos1": [
+        -293,
+        -58,
+        -25
+      ],
+      "pos2": [
+        -293,
+        -3,
+        -25
+      ],
+      "name": "Geode Farm Decorations 11"
+    },
+    {
+      "pos1": [
+        -203,
+        -58,
+        -105
+      ],
+      "pos2": [
+        -203,
+        -3,
+        -105
+      ],
+      "name": "Geode Farm Decorations 9"
+    },
+    {
+      "pos1": [
+        -203,
+        -58,
+        -25
+      ],
+      "pos2": [
+        -203,
+        -3,
+        -25
+      ],
+      "name": "Geode Farm Decorations 10"
+    },
+    {
+      "pos1": [
+        -203,
+        -59,
+        -104
+      ],
+      "pos2": [
+        -203,
+        -59,
+        -26
+      ],
+      "name": "Geode Farm Decorations 13"
+    },
+    {
+      "pos1": [
+        -293,
+        -58,
+        -105
+      ],
+      "pos2": [
+        -293,
+        -3,
+        -105
+      ],
+      "name": "Geode Farm Decorations 12"
+    },
+    {
+      "pos1": [
+        -294,
+        -58,
+        -104
+      ],
+      "pos2": [
+        -293,
+        -3,
+        -26
+      ],
+      "name": "Geode Farm Decorations"
+    },
+    {
+      "pos1": [
+        -293,
+        -2,
+        -104
+      ],
+      "pos2": [
+        -293,
+        -2,
+        -26
+      ],
+      "name": "Geode Farm Decorations 6"
+    },
+    {
+      "pos1": [
+        -292,
+        -2,
+        -25
+      ],
+      "pos2": [
+        -204,
+        -2,
+        -25
+      ],
+      "name": "Geode Farm Decorations 5"
+    },
+    {
+      "pos1": [
+        -203,
+        -2,
+        -104
+      ],
+      "pos2": [
+        -203,
+        -2,
+        -26
+      ],
+      "name": "Geode Farm Decorations 8"
+    },
+    {
+      "pos1": [
+        -292,
+        -2,
+        -105
+      ],
+      "pos2": [
+        -204,
+        -2,
+        -105
+      ],
+      "name": "Geode Farm Decorations 7"
+    },
+    {
+      "pos1": [
+        -292,
+        -59,
+        -104
+      ],
+      "pos2": [
+        -204,
+        -59,
+        -26
+      ],
+      "name": "floor"
+    },
+    {
+      "pos1": [
+        -203,
+        -58,
+        -104
+      ],
+      "pos2": [
+        -202,
+        -3,
+        -26
+      ],
+      "name": "Geode Farm Decorations 2"
+    },
+    {
+      "pos1": [
+        -292,
+        -58,
+        -25
+      ],
+      "pos2": [
+        -204,
+        -3,
+        -24
+      ],
+      "name": "Geode Farm Decorations 1"
+    },
+    {
+      "pos1": [
+        -292,
+        -2,
+        -104
+      ],
+      "pos2": [
+        -204,
+        -1,
+        -26
+      ],
+      "name": "Geode Farm Decorations 4"
+    },
+    {
+      "pos1": [
+        -292,
+        -58,
+        -106
+      ],
+      "pos2": [
+        -204,
+        -3,
+        -105
+      ],
+      "name": "Geode Farm Decorations 3"
+    }
+  ],
+  "origin": [
+    -248,
+    -57,
+    -69
+  ]
+}

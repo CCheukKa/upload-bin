@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "RRQ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "versatile_stones:cobblestone_variants"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        }
+    },
+    "result": {
+        "item": "minecraft:observer",
+        "count": 1
+    },
+    "group": "observer",
+    "replace": true
+}

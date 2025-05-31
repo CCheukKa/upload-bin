@@ -1,0 +1,48 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 13,
+    "layer_above": 0,
+    "layer_below": -30,
+    "layer_range_min": 0,
+    "layer_range_max": 3,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          269,
+          0,
+          -10
+        ],
+        "pos2": [
+          -361,
+          98,
+          -69
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      269,
+      1,
+      0
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

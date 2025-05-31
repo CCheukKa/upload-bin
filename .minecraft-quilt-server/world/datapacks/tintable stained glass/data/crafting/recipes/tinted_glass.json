@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " s ",
+        "sGs",
+        " s "
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "G": {
+            "tag": "tintable_stained_glass:glass"
+        }
+    },
+    "result": {
+        "item": "minecraft:tinted_glass",
+        "count": 2
+    },
+    "group": "tinted_glass",
+    "replace": true
+}

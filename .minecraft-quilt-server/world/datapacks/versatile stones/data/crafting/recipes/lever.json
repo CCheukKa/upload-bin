@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/",
+        "B"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "B": {
+            "tag": "versatile_stones:cobblestone_variants"
+        }
+    },
+    "result": {
+        "item": "minecraft:lever",
+        "count": 1
+    },
+    "group": "lever",
+    "replace": true
+}
